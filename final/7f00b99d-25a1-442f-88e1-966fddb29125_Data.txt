@@ -1,0 +1,538 @@
+Series Name	Series Code	Country Name	Country Code	2015 [YR2015]	2016 [YR2016]	2017 [YR2017]
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Afghanistan	AFG	50.5	..	53.4
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Albania	ALB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Algeria	DZA	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	American Samoa	ASM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Andorra	AND	100	100	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Angola	AGO	..	49.6	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Antigua and Barbuda	ATG	100	..	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Argentina	ARG	99.6	98.4	93.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Armenia	ARM	..	99.8	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Aruba	ABW	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Australia	AUS	98.8	98.8	99.4
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Austria	AUT	98.5	98.4	98.4
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Azerbaijan	AZE	99.8	99.8	99.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Bahamas, The	BHS	98	99	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Bahrain	BHR	99.9	99.7	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Bangladesh	BGD	..	49.8	67.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Barbados	BRB	99	99.1	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Belarus	BLR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Belgium	BEL	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Belize	BLZ	93.5	96.8	95.3
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Benin	BEN	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Bermuda	BMU	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Bhutan	BTN	89	89	96.4
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Bolivia	BOL	88.8	89.8	99.5
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Bosnia and Herzegovina	BIH	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Botswana	BWA	99.7	99.7	99.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Brazil	BRA	98.2	98.6	98.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	British Virgin Islands	VGB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Brunei Darussalam	BRN	100	100	99.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Bulgaria	BGR	93.4	95.1	93.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Burkina Faso	BFA	79.8	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Burundi	BDI	..	77.6	79.1
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Cabo Verde	CPV	91.4	92.6	92.4
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Cambodia	KHM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Cameroon	CMR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Canada	CAN	97.9	97.8	97.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Cayman Islands	CYM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Central African Republic	CAF	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Chad	TCD	24.3	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Channel Islands	CHI	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Chile	CHL	99.7	99.7	99.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	China	CHN	99.9	99.9	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Colombia	COL	99	95.9	99.3
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Comoros	COM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Congo, Dem. Rep.	COD	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Congo, Rep.	COG	91.2	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Costa Rica	CRI	90	98.8	98.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Cote d'Ivoire	CIV	..	73.6	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Croatia	HRV	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Cuba	CUB	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Curacao	CUW	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Cyprus	CYP	97.1	95.6	96
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Czechia	CZE	..	..	99.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Denmark	DNK	95.4	94.4	95.1
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Djibouti	DJI	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Dominica	DMA	100	100	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Dominican Republic	DOM	99.6	99.8	99.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Ecuador	ECU	94.2	94.1	95.6
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Egypt, Arab Rep.	EGY	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	El Salvador	SLV	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Equatorial Guinea	GNQ	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Eritrea	ERI	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Estonia	EST	99.7	99.7	99.5
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Eswatini	SWZ	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Ethiopia	ETH	..	27.7	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Faroe Islands	FRO	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Fiji	FJI	99.9	99.8	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Finland	FIN	99.7	99.6	99.6
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	France	FRA	97.7	97.4	98
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	French Polynesia	PYF	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Gabon	GAB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Gambia, The	GMB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Georgia	GEO	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Germany	DEU	97.1	96.2	97.1
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Ghana	GHA	..	..	78.1
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Gibraltar	GIB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Greece	GRC	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Greenland	GRL	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Grenada	GRD	99	99.3	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Guam	GUM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Guatemala	GTM	65.5	69.8	69.6
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Guinea	GIN	..	62.7	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Guinea-Bissau	GNB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Guyana	GUY	95.8	94.3	96.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Haiti	HTI	..	..	41.6
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Honduras	HND	72	79	74
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Hong Kong SAR, China	HKG	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Hungary	HUN	99.6	99.7	99.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Iceland	ISL	98.2	97.9	98
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	India	IND	..	81.4	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Indonesia	IDN	..	92.6	90.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Iran, Islamic Rep.	IRN	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Iraq	IRQ	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Ireland	IRL	99.7	99.7	99.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Isle of Man	IMN	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Israel	ISR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Italy	ITA	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Jamaica	JAM	99.7	99.7	99.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Japan	JPN	99.9	99.8	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Jordan	JOR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Kazakhstan	KAZ	99.4	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Kenya	KEN	..	70.2	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Kiribati	KIR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Korea, Dem. People's Rep.	PRK	..	..	99.5
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Korea, Rep.	KOR	100	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Kosovo	XKX	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Kuwait	KWT	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Kyrgyz Republic	KGZ	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Lao PDR	LAO	..	..	64.4
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Latvia	LVA	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Lebanon	LBN	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Lesotho	LSO	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Liberia	LBR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Libya	LBY	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Liechtenstein	LIE	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Lithuania	LTU	100	100	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Luxembourg	LUX	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Macao SAR, China	MAC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Madagascar	MDG	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Malawi	MWI	..	89.8	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Malaysia	MYS	99.4	99.5	99.6
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Maldives	MDV	..	..	99.5
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Mali	MLI	43.7	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Malta	MLT	99.8	99.8	99.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Marshall Islands	MHL	..	..	92.4
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Mauritania	MRT	69.3	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Mauritius	MUS	99.8	99.7	99.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Mexico	MEX	97.7	98	96.6
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Micronesia, Fed. Sts.	FSM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Moldova	MDA	99.7	99.7	99.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Monaco	MCO	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Mongolia	MNG	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Montenegro	MNE	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Morocco	MAR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Mozambique	MOZ	73	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Myanmar	MMR	..	60.2	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Namibia	NAM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Nauru	NRU	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Nepal	NPL	..	58	58
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Netherlands	NLD	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	New Caledonia	NCL	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	New Zealand	NZL	96.3	96.5	96.6
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Nicaragua	NIC	94	94.1	94.1
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Niger	NER	39.7	39.1	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Nigeria	NGA	..	..	43
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	North Macedonia	MKD	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Northern Mariana Islands	MNP	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Norway	NOR	99.1	99.1	99.2
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Oman	OMN	98.7	98.7	98.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Pakistan	PAK	59	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Palau	PLW	100	100	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Panama	PAN	96.3	94.6	94.2
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Papua New Guinea	PNG	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Paraguay	PRY	96.3	95.5	97.3
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Peru	PER	91.6	92.4	93.6
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Philippines	PHL	..	..	84.4
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Poland	POL	99.9	99.8	99.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Portugal	PRT	99.9	99.9	99.9
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Puerto Rico	PRI	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Qatar	QAT	99.9	100	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Romania	ROU	94.3	95	93.5
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Russian Federation	RUS	99.7	99.7	99.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Rwanda	RWA	90.7	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Samoa	WSM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	San Marino	SMR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Sao Tome and Principe	STP	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Saudi Arabia	SAU	98	98	99.7
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Senegal	SEN	53.2	58.6	68.4
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Serbia	SRB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Seychelles	SYC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Sierra Leone	SLE	..	..	81.6
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Singapore	SGP	99.7	99.7	99.6
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Sint Maarten (Dutch part)	SXM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Slovak Republic	SVK	97	98.1	98.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Slovenia	SVN	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Solomon Islands	SLB	86.2	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Somalia	SOM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	South Africa	ZAF	..	96.7	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	South Sudan	SSD	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Spain	ESP	99.9	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Sri Lanka	LKA	..	99.5	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	St. Kitts and Nevis	KNA	100	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	St. Lucia	LCA	99.1	..	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	St. Martin (French part)	MAF	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	St. Vincent and the Grenadines	VCT	98.7	98.6	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Sudan	SDN	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Suriname	SUR	90	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Sweden	SWE	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Switzerland	CHE	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Syrian Arab Republic	SYR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Tajikistan	TJK	98	..	94.8
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Tanzania	TZA	..	63.5	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Thailand	THA	..	99.1	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Timor-Leste	TLS	..	56.7	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Togo	TGO	..	..	69.4
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Tonga	TON	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Trinidad and Tobago	TTO	100	100	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Tunisia	TUN	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Turkiye	TUR	99	..	98
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Turkmenistan	TKM	..	100	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Turks and Caicos Islands	TCA	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Tuvalu	TUV	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Uganda	UGA	..	74.2	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Ukraine	UKR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	United Arab Emirates	ARE	99.9	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	United Kingdom	GBR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	United States	USA	99.1	99.1	99.1
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Uruguay	URY	99.9	100	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Uzbekistan	UZB	100	100	100
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Vanuatu	VUT	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Venezuela, RB	VEN	99.3	99.3	99.1
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Viet Nam	VNM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Virgin Islands (U.S.)	VIR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	West Bank and Gaza	PSE	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Yemen, Rep.	YEM	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Zambia	ZMB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Zimbabwe	ZWE	78.1	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Africa Eastern and Southern	AFE	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Africa Western and Central	AFW	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Arab World	ARB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Caribbean small states	CSS	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Central Europe and the Baltics	CEB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Early-demographic dividend	EAR	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	East Asia & Pacific	EAS	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	East Asia & Pacific (excluding high income)	EAP	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	East Asia & Pacific (IDA & IBRD countries)	TEA	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Euro area	EMU	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Europe & Central Asia	ECS	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Europe & Central Asia (excluding high income)	ECA	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Europe & Central Asia (IDA & IBRD countries)	TEC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	European Union	EUU	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Fragile and conflict affected situations	FCS	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Heavily indebted poor countries (HIPC)	HPC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	High income	HIC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	IBRD only	IBD	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	IDA & IBRD total	IBT	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	IDA blend	IDB	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	IDA only	IDX	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	IDA total	IDA	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Late-demographic dividend	LTE	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Latin America & Caribbean	LCN	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Latin America & Caribbean (excluding high income)	LAC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Latin America & the Caribbean (IDA & IBRD countries)	TLA	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Least developed countries: UN classification	LDC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Low & middle income	LMY	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Low income	LIC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Lower middle income	LMC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Middle East & North Africa	MEA	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Middle East & North Africa (excluding high income)	MNA	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Middle East & North Africa (IDA & IBRD countries)	TMN	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Middle income	MIC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	North America	NAC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Not classified	INX	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	OECD members	OED	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Other small states	OSS	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Pacific island small states	PSS	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Post-demographic dividend	PST	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Pre-demographic dividend	PRE	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Small states	SST	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	South Asia	SAS	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	South Asia (IDA & IBRD)	TSA	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Sub-Saharan Africa	SSF	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Sub-Saharan Africa (excluding high income)	SSA	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Sub-Saharan Africa (IDA & IBRD countries)	TSS	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	Upper middle income	UMC	..	..	..
+Births attended by skilled health staff (% of total)	SH.STA.BRTC.ZS	World	WLD	..	..	..
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Afghanistan	AFG	566.881129708434	523.053011984748	526.140801025756
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Albania	ALB	3952.80357364813	4124.05538986272	4531.03220675893
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Algeria	DZA	4741.49977033558	4481.08196153066	4615.86874364885
+GDP per capita (current US$)	NY.GDP.PCAP.CD	American Samoa	ASM	13101.5418159165	13300.8246114811	12372.8847825647
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Andorra	AND	38885.5303222983	39931.2169800216	40632.2315521995
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Angola	AGO	3217.33924005417	1809.70937719455	2439.37443934002
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Antigua and Barbuda	ATG	15985.5411386971	16449.0591470407	16803.8702340001
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Argentina	ARG	13789.060424772	12790.2641396135	14613.0356486571
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Armenia	ARM	3666.14182210905	3679.95234740376	4041.99507105058
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Aruba	ABW	28419.2645344661	28449.7129463044	29329.0817465959
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Australia	AUS	56758.8692027821	49918.7939327254	53954.553494614
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Austria	AUT	44195.8175947748	45307.5878620429	47429.1584564387
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Azerbaijan	AZE	5500.50364628486	3880.6852276838	4147.1981423222
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Bahamas, The	BHS	29722.4068429349	29661.1410792573	30666.8838654704
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Bahrain	BHR	22850.6653959938	22877.9351764172	24315.4975906804
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Bangladesh	BGD	1236.4354555046	1659.88817301175	1815.47222007199
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Barbados	BRB	17040.4176091311	17398.9870769319	17910.7830952014
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Belarus	BLR	5967.06856034227	5039.77560949445	5785.53397723676
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Belgium	BEL	41008.296719472	42012.6227191016	44198.4823908691
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Belize	BLZ	6098.60007958976	6099.95710191497	6049.3919477765
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Benin	BEN	1041.65252312918	1049.82030361083	1095.27445827386
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Bermuda	BMU	102005.62564189	106885.878489327	111820.581466347
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Bhutan	BTN	2899.22829354394	3097.96123360501	3427.17384540098
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Bolivia	BOL	2975.64881143063	3013.50270721666	3280.0082139387
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Bosnia and Herzegovina	BIH	4654.60862038896	4917.26376596306	5327.39230422044
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Botswana	BWA	5869.73757890628	6411.5518615966	6705.34084567283
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Brazil	BRA	8783.2154236384	8680.73646873878	9896.71889500528
+GDP per capita (current US$)	NY.GDP.PCAP.CD	British Virgin Islands	VGB	..	..	..
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Brunei Darussalam	BRN	30681.4339698653	26762.0350436621	28186.9867351423
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Bulgaria	BGR	7078.86032298969	7570.93165511708	8381.88134621669
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Burkina Faso	BFA	632.12668582235	665.786328598963	711.184543433623
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Burundi	BDI	289.359627206129	242.539527292978	244.14542219677
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Cabo Verde	CPV	3169.07890082563	3312.69674458487	3534.34357478817
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Cambodia	KHM	1170.74281578643	1281.10597105412	1400.89926522987
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Cameroon	CMR	1399.67533596114	1426.0654809805	1479.86222292144
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Canada	CAN	43594.1941045394	42314.0615817218	45129.628116623
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Cayman Islands	CYM	77295.8456647776	78858.2796562866	81255.1122691866
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Central African Republic	CAF	351.879754769554	372.135456093031	414.74032227842
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Chad	TCD	774.411603124119	691.980077427731	662.897472963315
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Channel Islands	CHI	..	55411.7047967069	54904.0996682551
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Chile	CHL	13567.3572174332	13788.2400083224	15034.0584350711
+GDP per capita (current US$)	NY.GDP.PCAP.CD	China	CHN	8016.44559489998	8094.39016735149	8817.04560829162
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Colombia	COL	6228.65162110371	5936.26102166829	6449.97098770131
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Comoros	COM	1322.93677605288	1357.26622979616	1414.58668992431
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Congo, Dem. Rep.	COD	482.064568638238	456.027950583624	451.089088517319
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Congo, Rep.	COG	2455.34085824476	2107.51861826924	2227.7326089376
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Costa Rica	CRI	11529.9551730192	11899.8139833748	12118.1336248174
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Cote d'Ivoire	CIV	1941.58189765549	1999.19537179625	2113.34152379369
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Croatia	HRV	12135.1036186683	12634.3195701712	13655.4798216229
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Cuba	CUB	7683.74025365669	8055.92586780018	8543.33006731328
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Curacao	CUW	19361.8130008678	18944.0961493998	18938.2440469703
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Cyprus	CYP	23487.21875	24715.142578125	26697.005859375
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Czechia	CZE	17829.6983223668	18575.2320271915	20636.199952435
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Denmark	DNK	53254.8563700916	54663.9983719195	57610.0981801135
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Djibouti	DJI	2409.31190224284	2545.73879850905	2655.73321960188
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Dominica	DMA	7724.04241057376	8223.04145029796	7408.09130082314
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Dominican Republic	DOM	6838.93674590634	7191.06970308651	7513.49798180543
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Ecuador	ECU	6002.1083111024	5941.23470878371	6256.68301935971
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Egypt, Arab Rep.	EGY	3370.38244716015	3331.61246134688	2439.96728439968
+GDP per capita (current US$)	NY.GDP.PCAP.CD	El Salvador	SLV	3761.51368000275	3870.31298246063	3986.04901435439
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Equatorial Guinea	GNQ	9788.98380369718	8035.3076664385	8410.39797433692
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Eritrea	ERI	..	..	..
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Estonia	EST	17402.0376128079	18295.3429322114	20437.765376736
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Eswatini	SWZ	3583.31129031343	3339.99040122187	3824.04678338499
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Ethiopia	ETH	630.312619383054	705.617508543589	755.752644348666
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Faroe Islands	FRO	52726.6873782078	56833.9165410522	59328.2376643374
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Fiji	FJI	5105.18959221062	5368.43350276363	5825.19966886254
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Finland	FIN	42801.9081167285	43814.0265056965	46412.1364777169
+GDP per capita (current US$)	NY.GDP.PCAP.CD	France	FRA	36652.9223052178	37062.5335723829	38781.0494870836
+GDP per capita (current US$)	NY.GDP.PCAP.CD	French Polynesia	PYF	18252.5142032094	18726.6394704764	19743.9590211525
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Gabon	GAB	7090.45463394942	6722.19822269059	6975.69519191402
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Gambia, The	GMB	611.67121911225	640.676265282984	632.001024153219
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Georgia	GEO	4086.6223465965	4143.40125686315	4418.75206546679
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Germany	DEU	41103.2564363768	42136.1207907991	44652.5891722719
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Ghana	GHA	1711.27132561453	1900.39769521465	1998.72279840363
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Gibraltar	GIB	..	..	..
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Greece	GRC	18083.8779056547	17923.9668134716	18582.0893411631
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Greenland	GRL	44536.3549705377	48181.7453541266	50765.7494665372
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Grenada	GRD	8379.62184743156	8849.51353500776	9309.26129609568
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Guam	GUM	34522.3779304433	35052.8079075238	35663.0250406273
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Guatemala	GTM	3994.62908519019	4173.28134863663	4454.02450948165
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Guinea	GIN	756.425589810936	720.473255172646	843.464279230956
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Guinea-Bissau	GNB	644.179063890749	678.680279492738	781.975888258504
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Guyana	GUY	5668.42976474423	5905.38019563205	6220.97856820609
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Haiti	HTI	1405.71477634354	1313.18609457981	1389.35862463561
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Honduras	HND	2257.22528369354	2295.53627000423	2403.30608839303
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Hong Kong SAR, China	HKG	42432.1619740441	43734.1980702999	46160.429791493
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Hungary	HUN	12717.038597002	13104.6995457458	14621.2395956755
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Iceland	ISL	52951.6815110898	61987.9263620283	72010.1490316258
+GDP per capita (current US$)	NY.GDP.PCAP.CD	India	IND	1590.17433134297	1714.27953738629	1957.96981331058
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Indonesia	IDN	3322.58167895444	3558.81885175737	3839.78507460491
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Iran, Islamic Rep.	IRN	4990.93679541655	5497.24323254699	5758.59072766807
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Iraq	IRQ	4416.94292408042	4308.84808910054	4725.19357334032
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Ireland	IRL	62179.2642662951	62784.0656875694	70150.7370157965
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Isle of Man	IMN	84753.5187422732	82041.6724147014	83510.2696040057
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Israel	ISR	36206.5222171621	37690.4739511859	41114.7817082553
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Italy	ITA	30242.3861352184	30960.7315088902	32406.7203150134
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Jamaica	JAM	5077.55096915616	5022.70017844299	5273.1490130852
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Japan	JPN	34960.6393843385	39375.4731620781	38834.0529341227
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Jordan	JOR	4064.25301043642	4003.40474641177	4073.11640314668
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Kazakhstan	KAZ	10510.7703240885	7714.84184376024	9247.58067886159
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Kenya	KEN	1496.65357260021	1562.07661862777	1675.98842173012
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Kiribati	KIR	1641.48097739743	1743.76286839846	1852.99234427752
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Korea, Dem. People's Rep.	PRK	..	..	..
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Korea, Rep.	KOR	28737.4391706499	29280.4403170048	31600.7358741365
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Kosovo	XKX	3520.78207462478	3759.47285515454	4009.3538108854
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Kuwait	KWT	29315.1931019553	27026.7729279269	29258.266295535
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Kyrgyz Republic	KGZ	1121.08269597662	1120.66705800127	1242.77022029305
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Lao PDR	LAO	2125.4589005996	2309.04999818095	2439.46241167184
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Latvia	LVA	13786.4567953114	14331.7515885049	15695.1151541059
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Lebanon	LBN	7802.75136769776	8172.29947599133	8679.89742212366
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Lesotho	LSO	1113.83683453612	986.265249840927	1062.71243340258
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Liberia	LBR	699.662946853965	722.131226789418	706.892691974846
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Libya	LBY	7867.51493141091	7945.00421529319	10529.1163503303
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Liechtenstein	LIE	167809.269874833	165845.995200652	170875.682067431
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Lithuania	LTU	14263.9645773495	15008.3132445526	16885.4073948373
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Luxembourg	LUX	105462.012584423	106899.293549552	110193.213797228
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Macao SAR, China	MAC	73220.6355551661	71919.054918813	78896.2747485132
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Madagascar	MDG	455.63803458407	464.61615837171	503.498058680237
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Malawi	MWI	544.276872741836	454.443266065248	500.165547203323
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Malaysia	MYS	9699.60046342736	9555.66959336559	9979.70447282371
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Maldives	MDV	9480.43151261807	9708.14134853645	10194.746141387
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Mali	MLI	723.504204947663	750.051809102295	795.682801553765
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Malta	MLT	24921.7141769982	25623.9416320597	28813.1853396512
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Marshall Islands	MHL	3708.21556179322	4156.93912680937	4512.59276329667
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Mauritania	MRT	1562.72683648828	1579.20071673512	1634.64215833074
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Mauritius	MUS	9507.87133656424	9965.72531085228	10841.6847754844
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Mexico	MEX	10098.173182095	9152.73722379028	9693.33009082487
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Micronesia, Fed. Sts.	FSM	2891.32210264749	2956.56129178986	3250.9281898035
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Moldova	MDA	2749.55137054338	2847.08794770479	3453.26727720294
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Monaco	MCO	170338.680381498	174412.494536127	173611.687859934
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Mongolia	MNG	3919.35121343969	3690.75677759847	3708.24822134669
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Montenegro	MNE	6517.19267514764	7033.43962398373	7803.35824465203
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Morocco	MAR	3139.22827148438	3132.9521484375	3288.50268554688
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Mozambique	MOZ	603.838513777915	435.760991009624	464.294721264472
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Myanmar	MMR	1157.78396112581	1219.80143924907	1263.24605485191
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Namibia	NAM	4965.67276506551	4614.89207493896	5453.57062341501
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Nauru	NRU	7587.25441038889	8528.63015087044	9361.03739658919
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Nepal	NPL	882.30766159992	880.224893639824	1027.96547660189
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Netherlands	NLD	45193.4032187971	46039.1059284098	48675.2223350213
+GDP per capita (current US$)	NY.GDP.PCAP.CD	New Caledonia	NCL	32428.5722348241	32286.9104984753	33876.3290941463
+GDP per capita (current US$)	NY.GDP.PCAP.CD	New Zealand	NZL	38639.3501941427	40070.8956577431	42913.186956185
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Nicaragua	NIC	2025.32477597575	2079.45373495517	2127.28572022576
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Niger	NER	481.111301105002	497.036120831726	514.543398016347
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Nigeria	NGA	2679.5542234874	2144.78034442697	1941.87947889475
+GDP per capita (current US$)	NY.GDP.PCAP.CD	North Macedonia	MKD	5262.68671928674	5598.48622617967	5955.2973863451
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Northern Mariana Islands	MNP	17665.1007493109	24054.9156122269	30751.6410731534
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Norway	NOR	74809.9658049898	70867.3609970749	76131.8384032764
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Oman	OMN	18777.4330589162	17082.2061998982	17802.5751178049
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Pakistan	PAK	1421.83527830089	1468.82208238833	1567.6406123353
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Palau	PLW	16141.1696583338	17142.1292548657	16389.8505443828
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Panama	PAN	13669.5594424097	14382.2323819969	15185.9724813803
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Papua New Guinea	PNG	2502.07344498028	2332.67588834678	2495.14077312932
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Paraguay	PRY	5861.40189546648	5759.04219789251	6136.0583014952
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Peru	PER	6180.11926810233	6163.86042474328	6676.30879274916
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Philippines	PHL	2974.29691673713	3038.15203684461	3077.43441889625
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Poland	POL	12560.051419682	12378.8128106111	13815.501164767
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Portugal	PRT	19250.1065376852	19991.9724878805	21490.429863104
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Puerto Rico	PRI	29763.4883013861	30627.1634017011	31108.7527508912
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Qatar	QAT	66984.9102002396	58467.2355711087	59407.6980498883
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Romania	ROU	8976.9544892648	9404.38125929526	10727.9708633184
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Russian Federation	RUS	9277.7138671875	8663.158203125	10658.9130859375
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Rwanda	RWA	733.813379277367	728.802757896536	756.547641107379
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Samoa	WSM	4048.46711296568	4105.8109051951	4261.64034322214
+GDP per capita (current US$)	NY.GDP.PCAP.CD	San Marino	SMR	42281.8112549264	43398.4285257227	44885.517837773
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Sao Tome and Principe	STP	1292.73305546523	1428.25790783907	1547.82270967205
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Saudi Arabia	SAU	20442.3625620084	19930.4111440325	20910.4821334146
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Senegal	SEN	1238.12639978389	1290.74997126951	1385.1992136057
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Serbia	SRB	5588.9794435877	5765.20335248009	6292.5465490011
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Seychelles	SYC	15333.1051727105	16566.9946042294	17480.3651911372
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Sierra Leone	SLE	581.293411814954	515.447839602837	484.456128767591
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Singapore	SGP	55645.6068614606	56899.9181805173	61162.0973932771
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Sint Maarten (Dutch part)	SXM	36519.9926615273	36597.6920061528	35043.6908689636
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Slovak Republic	SVK	16390.8821748507	16563.4404971229	17585.197002257
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Slovenia	SVN	20890.1664304173	21678.3594670629	23514.0254604147
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Solomon Islands	SLB	2134.80541826155	2196.28389055503	2283.57905127379
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Somalia	SOM	507.482915467098	517.097581505502	555.185123613069
+GDP per capita (current US$)	NY.GDP.PCAP.CD	South Africa	ZAF	6204.92990145846	5735.06678717842	6734.47515312493
+GDP per capita (current US$)	NY.GDP.PCAP.CD	South Sudan	SSD	1071.77776475545	..	..
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Spain	ESP	25754.36102944	26537.1594894542	28185.3213671969
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Sri Lanka	LKA	3990.35311739446	4107.82977539914	4388.20190593728
+GDP per capita (current US$)	NY.GDP.PCAP.CD	St. Kitts and Nevis	KNA	20029.759828881	21068.4380706143	22119.4470603281
+GDP per capita (current US$)	NY.GDP.PCAP.CD	St. Lucia	LCA	10292.7335300088	10591.8750003936	11280.5930341194
+GDP per capita (current US$)	NY.GDP.PCAP.CD	St. Martin (French part)	MAF	..	..	..
+GDP per capita (current US$)	NY.GDP.PCAP.CD	St. Vincent and the Grenadines	VCT	7386.74663845115	7684.79283998852	7996.67207402003
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Sudan	SDN	1355.12609863281	1082.61657714844	1014.84246826172
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Suriname	SUR	8907.83725830091	5705.39948731743	6112.88301430134
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Sweden	SWE	51545.4836095322	51965.1571531985	53791.5087298403
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Switzerland	CHE	83806.4476003837	82153.0745447889	82254.3769269767
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Syrian Arab Republic	SYR	857.417884760688	664.294847192603	862.325327610986
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Tajikistan	TJK	970.362547188452	801.39383995978	844.365216932115
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Tanzania	TZA	929.7998046875	942.889038085938	975.904663085938
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Thailand	THA	5708.79409105798	5854.4639077194	6436.78965986703
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Timor-Leste	TLS	1322.9290943123	1349.54677672507	1285.5239757568
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Togo	TGO	770.143807374741	792.44099138624	813.394787167149
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Tonga	TON	4117.93104694205	3978.43768561484	4367.25660339844
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Trinidad and Tobago	TTO	18508.770502876	16139.105257595	16258.7489291438
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Tunisia	TUN	3960.92484913663	3796.1095999439	3569.71883883673
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Turkiye	TUR	11049.9951100942	10970.0458948862	10695.550196231
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Turkmenistan	TKM	6208.2966545016	6163.25340597611	6354.53282979422
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Turks and Caicos Islands	TCA	25783.2941047676	26995.0321602259	25824.2561790985
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Tuvalu	TUV	3384.38320147639	3836.07300251003	4181.43658600984
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Uganda	UGA	864.180059289672	753.684405508036	766.177604015442
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Ukraine	UKR	2124.66259765625	2187.7275390625	2638.32543945313
+GDP per capita (current US$)	NY.GDP.PCAP.CD	United Arab Emirates	ARE	41525.1389043587	41054.5395698941	43063.9674785596
+GDP per capita (current US$)	NY.GDP.PCAP.CD	United Kingdom	GBR	44964.3911437292	40985.2351382417	40572.1214823783
+GDP per capita (current US$)	NY.GDP.PCAP.CD	United States	USA	57040.2082136605	58206.6141931844	60322.2614241747
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Uruguay	URY	16950.7531694816	16837.9403803049	18995.3970195554
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Uzbekistan	UZB	2753.97105825798	2704.6771888938	1916.76462520814
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Vanuatu	VUT	2643.8868859095	2757.20330593386	3032.19702965604
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Venezuela, RB	VEN	..	..	..
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Viet Nam	VNM	2595.23484372958	2760.71710111715	2992.07153198845
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Virgin Islands (U.S.)	VIR	34007.3529411765	35324.9748874586	35365.0693039774
+GDP per capita (current US$)	NY.GDP.PCAP.CD	West Bank and Gaza	PSE	3272.15432360708	3527.61382413178	3620.36048715937
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Yemen, Rep.	YEM	1488.4162886442	1069.81700944581	893.716500927815
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Zambia	ZMB	1307.90964916032	1249.92314348406	1495.75213841021
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Zimbabwe	ZWE	1410.32917348908	1421.78779140568	1192.10701198862
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Africa Eastern and Southern	AFE	1498.80508358802	1346.30128120779	1485.7535786147
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Africa Western and Central	AFW	1882.51880807768	1648.92026894717	1590.5557849502
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Arab World	ARB	6258.60722652973	6022.88281755523	6068.60300810317
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Caribbean small states	CSS	11629.1207744449	11175.5737188632	11576.2769685123
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Central Europe and the Baltics	CEB	12528.0826430876	12785.3859233633	14225.8773247545
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Early-demographic dividend	EAR	3234.22594362502	3284.23162293425	3504.86445468793
+GDP per capita (current US$)	NY.GDP.PCAP.CD	East Asia & Pacific	EAS	9586.05662481986	9856.66562356527	10454.5358035249
+GDP per capita (current US$)	NY.GDP.PCAP.CD	East Asia & Pacific (excluding high income)	EAP	6499.96372015715	6592.51791291846	7151.27470673284
+GDP per capita (current US$)	NY.GDP.PCAP.CD	East Asia & Pacific (IDA & IBRD countries)	TEA	6572.88955264077	6666.30238489789	7231.05858273787
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Euro area	EMU	34118.3659418664	34889.6717204536	36878.9370566652
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Europe & Central Asia	ECS	22579.1836978638	22398.149896359	23670.8127114864
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Europe & Central Asia (excluding high income)	ECA	6312.15034167041	6006.36708907309	6111.39433717826
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Europe & Central Asia (IDA & IBRD countries)	TEC	8014.50415079485	7662.53290925723	8554.01109678491
+GDP per capita (current US$)	NY.GDP.PCAP.CD	European Union	EUU	30487.6523692732	31174.7535083936	33091.3890251906
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Fragile and conflict affected situations	FCS	1845.31230428842	1663.08517085287	1690.94404160881
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Heavily indebted poor countries (HIPC)	HPC	917.721459685355	901.324893112879	940.767399878295
+GDP per capita (current US$)	NY.GDP.PCAP.CD	High income	HIC	36482.9965260467	36993.533269398	38707.9315420479
+GDP per capita (current US$)	NY.GDP.PCAP.CD	IBRD only	IBD	5541.33759395986	5528.04543069571	6048.21917294317
+GDP per capita (current US$)	NY.GDP.PCAP.CD	IDA & IBRD total	IBT	4484.4893837025	4456.76020150655	4837.06302141945
+GDP per capita (current US$)	NY.GDP.PCAP.CD	IDA blend	IDB	1993.78936181267	1826.22694665161	1760.54249485162
+GDP per capita (current US$)	NY.GDP.PCAP.CD	IDA only	IDX	1042.15535457657	1077.4759697027	1135.9391535687
+GDP per capita (current US$)	NY.GDP.PCAP.CD	IDA total	IDA	1360.96217666755	1327.72429067074	1344.21682075242
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Late-demographic dividend	LTE	8212.74329215127	8180.74109097909	9020.04276617454
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Latin America & Caribbean	LCN	8719.62575346093	8417.3721092089	9256.11626423804
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Latin America & Caribbean (excluding high income)	LAC	8297.30225777455	7968.02217920097	8788.65434317749
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Latin America & the Caribbean (IDA & IBRD countries)	TLA	8577.804211342	8258.39951873525	9110.90175054244
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Least developed countries: UN classification	LDC	968.123889466947	961.052941601299	1026.5687075244
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Low & middle income	LMY	4214.45758022272	4202.3081380546	4528.2851864622
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Low income	LIC	714.771564692477	642.048021882497	654.651268016387
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Lower middle income	LMC	1856.92603274113	1906.05841740326	2018.06133276216
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Middle East & North Africa	MEA	7266.6592292899	7204.57374392984	7380.40569942152
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Middle East & North Africa (excluding high income)	MNA	3862.5722046145	3887.0200728029	3821.91888653613
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Middle East & North Africa (IDA & IBRD countries)	TMN	3869.3156107047	3891.14303171761	3824.23813565368
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Middle income	MIC	4590.10014047065	4589.78770455454	4956.25071427331
+GDP per capita (current US$)	NY.GDP.PCAP.CD	North America	NAC	55701.8124434679	56617.8738074516	58796.4689001287
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Not classified	INX	..	..	..
+GDP per capita (current US$)	NY.GDP.PCAP.CD	OECD members	OED	35733.3440313659	36197.2181448972	37576.6175060967
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Other small states	OSS	11597.2856104624	12007.5839403413	13168.3078074236
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Pacific island small states	PSS	3735.49952275424	3878.32501790946	4142.26772455685
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Post-demographic dividend	PST	40717.0989510662	41461.9972670039	43088.4274179433
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Pre-demographic dividend	PRE	1524.75727930826	1320.44521076183	1340.65197800485
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Small states	SST	10568.2406997506	10806.5478125662	11730.8818238776
+GDP per capita (current US$)	NY.GDP.PCAP.CD	South Asia	SAS	1539.5941449215	1675.52326892233	1887.87828259142
+GDP per capita (current US$)	NY.GDP.PCAP.CD	South Asia (IDA & IBRD)	TSA	1539.5941449215	1675.52326892233	1887.87828259142
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Sub-Saharan Africa	SSF	1654.27280706483	1468.9014601283	1528.22459360107
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Sub-Saharan Africa (excluding high income)	SSA	1653.00584689775	1467.52177135115	1526.78737212966
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Sub-Saharan Africa (IDA & IBRD countries)	TSS	1654.27280706483	1468.9014601283	1528.22459360107
+GDP per capita (current US$)	NY.GDP.PCAP.CD	Upper middle income	UMC	7372.17996247398	7340.45765373801	7988.4308620841
+GDP per capita (current US$)	NY.GDP.PCAP.CD	World	WLD	10177.8905141454	10224.0659312632	10762.8045848545
+						
+						
+						
+Data from database: World Development Indicators						
+Last Updated: 11/13/2024						
